@@ -1,6 +1,7 @@
 {
-  "name": "gulp-spring",
+  "name": "honeycomb",
   "version": "0.0.1",
+  "author": "majun",
   "private": true,
   "scripts": {
     "dev": "gulp build --env development",
